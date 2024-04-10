@@ -12,3 +12,7 @@
 * Kubernetes was donated to the Cloud Native Computing Foundation (CNCF), a neutral home for open-source cloud-native projects, in July 2015.
 * Kubernetes 1.8 added significant enhancements for storage, security, and networking. Key features included the stable release of the stateful sets API, expanded support for volume plugins, and improvements in security policies.
 * Check URL: https://kubernetes.io/releases/ for more release details.
+
+### KUBERNETES ARCHITECTURE 
+
+![Reffer Hear] k-1.png
