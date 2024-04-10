@@ -1,9 +1,9 @@
 ### Kubernetes (K8s)
 -------------------
 
-*Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. 
-*The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
-*It provides a scalable and resilient framework for automating the deployment, scaling, and management of applications across clusters of servers.
+* Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. 
+* The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
+* It provides a scalable and resilient framework for automating the deployment, scaling, and management of applications across clusters of servers.
 
 ## A SMALL HISTORY OF K8S:
 * In the early 2000s, Google started developing a system called Borg to manage their internal containerized applications. 
