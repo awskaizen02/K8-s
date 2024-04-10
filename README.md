@@ -15,4 +15,4 @@
 
 ### KUBERNETES ARCHITECTURE 
 
-![Reffer Hear] k-1.png
+![Reffer Hear] (k-1.png)
