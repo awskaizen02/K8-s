@@ -7,7 +7,7 @@ Every small service -> 1 Application -> Docker Image
 
 * resilient = maintain erros/issues.. (manage the count)
 
-![Refer_Hear] (https://kubernetes.io/)
+![Refer Hear] (https://kubernetes.io/)
 
 * k8s is a Orchestration, implemented using GoLang. Maintained by CNCF
 
