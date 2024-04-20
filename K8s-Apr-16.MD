@@ -1,3 +1,4 @@
+[K8s architecture](K-1.png)
 * Microservice : Independent deployable components.
 Every small service -> 1 Application -> Docker Image
 
